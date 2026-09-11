@@ -1,6 +1,7 @@
-
 from utils import square, is_even, celsius_to_fahrenheit
 
+
+print("Welcome to the Python Calculator!")
 
 number = float(input("Enter a number: "))
 
